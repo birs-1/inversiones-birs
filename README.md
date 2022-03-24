@@ -1,2 +1,0 @@
-# inversiones-birs
-plataforma inversion 
